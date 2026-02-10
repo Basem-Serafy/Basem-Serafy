@@ -1,12 +1,12 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%20%20Orion%20&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=%20%20Orion%20&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
 ###
 
-<h1 align="center">Hello Amigo, I'm Basem Serafy 😶‍🌫️</h1>
+<h2 align="center">Hello Amigo, I'm Basem Serafy 😶‍🌫️</h2>
 
 ###
 
@@ -19,15 +19,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="40" alt="facebook logo"  />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" height="50" alt="facebook logo"  />
   <img width="3" />
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="40" alt="twitter logo"  />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="50" alt="twitter logo"  />
   <img width="3" />
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="50" alt="linkedin logo"  />
   <img width="3" />
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="40" alt="instagram logo"  />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="50" alt="instagram logo"  />
   <img width="3" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="40" alt="discord logo"  />
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="50" alt="discord logo"  />
 </div>
 
 ###
@@ -37,11 +37,11 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="65" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="75" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="65" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="75" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="65" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="75" alt="python logo"  />
 </div>
 
 ###
@@ -51,11 +51,11 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="55" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="65" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="55" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="65" alt="visualstudio logo"  />
 </div>
 
 ###
@@ -72,11 +72,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Basem-Serafy/Basem-Serafy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Basem-Serafy/Basem-Serafy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Basem-Serafy/Basem-Serafy/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Basem-Serafy/Basem-Serafy/output/snake.svg" alt="Snake animation" />
 
 ###
 
