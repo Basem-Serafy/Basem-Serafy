@@ -37,11 +37,11 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" height="75" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="90" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="75" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="90" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="75" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="90" alt="python logo"  />
 </div>
 
 ###
@@ -51,11 +51,11 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github" height="65" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="80" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="65" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="80" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="65" alt="visualstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="80" alt="visualstudio logo"  />
 </div>
 
 ###
@@ -72,12 +72,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Basem-Serafy/Basem-Serafy/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
