@@ -1,4 +1,4 @@
-<br clear="both">
+ث<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&text=%20%20Orion%20&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="center">👾 Back-End. NET Developer 👾</h1>
+<h1 align="center">👾 Back-End .NET Developer 👾</h1>
 
 ###
 
